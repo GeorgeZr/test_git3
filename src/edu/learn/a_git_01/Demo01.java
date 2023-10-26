@@ -5,5 +5,6 @@ public class Demo01 {
         System.out.println("你好, git");
         System.out.println("你好, git2, 哈哈哈");
         System.out.println("你好, git2, 哈哈哈, 在 dev1 上书写代码的 demo");
+        System.out.println("你好, git2, 哈哈哈, 在 github 上编写的代码");
     }
 }
